@@ -14,7 +14,8 @@ Higgsfield: not used (balance read only: 270 credits, starter plan).
 | clips/CLIP_orbit-pushin_neon.mp4 | MUAPI minimax-hailuo-02-standard-i2v (768P, 6s) from STILL_B | orbit/push-in, neon shifts red to purple |
 | clips/CLIP_glow-reveal_spotlight.mp4 | hailuo-02 from STILL_C | spotlight on, then red neon outline (stylized; print doesn't light up) |
 | clips/CLIP_use_lift-off_raw.mp4 | hailuo-02 from USE still | hand lifts controller off; reversed in the reels = sets it down |
-| reels/REEL_1_park-your-controller.mp4 | ffmpeg edit: real final.mp4 + real site photos + AI stills/clips | 14.6s, snd-0011, -14.1 LUFS |
-| reels/REEL_2_parking-spot.mp4 | same | 15.2s, snd-0012, -14.1 LUFS, in-use opener |
+| reels/REEL_1_park-your-controller.mp4 | ffmpeg single-pass (v2, word-burst ASS subs): real final.mp4 + real site photos + AI stills/clips | 14.6s, snd-0011, -14.1 LUFS |
+| reels/REEL_2_parking-spot.mp4 | ffmpeg single-pass (v2) | 15.2s, snd-0012, -14.0 LUFS, in-use opener |
 | captions/REEL_*_caption_doc.md | create-viral-content workflow | IG/TT/FB, hooks, disclosure, tag bank |
 | TREND_RESEARCH.md | trend-researcher + viral-video-analyst | public sources cited |
+| SCRIPTS_JUDGE.md | reels-af critic/judge pattern (by hand) | 3 scripts per reel, scored |

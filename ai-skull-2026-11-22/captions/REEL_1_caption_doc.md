@@ -5,6 +5,7 @@ Live price, verified on https://zukkay.com/p/dripping-skull-game-controller-hold
 Shipping note: "free at $35+" appears in the site footer only for **nurse accessories**. This holder shows flat $4.99 shipping, so no free-shipping claim is made here.
 Length 14.6 s · 1080x1920 · 30 fps · -14.1 LUFS · audio snd-0011 (vault; license marked "unverified, extracted from a trending video")
 On screen from frame 1: hook "PARK YOUR CONTROLLER HERE." (0-2.8 s), plus "$32.99 + $4.99 SHIPPING / LINK IN BIO" (0-11.95 s). The end card shows the price, link in bio, and "SAVE THIS FOR YOUR SETUP". There is no comment-keyword CTA anywhere.
+v2 on-screen script (Hook, Mechanism, Payoff; word-burst subtitles, one word at a time): OFF THE COUCH. / ONTO THE SKULL. / PRINTED TO ORDER. / SET IT DOWN. / PARKED. (see ../SCRIPTS_JUDGE.md)
 
 ## Hook variants (create-viral-content step 3: at least 5 drafted, scored for curiosity/specificity/emotion, 0-3 each)
 | # | Hook | Pattern | C | S | E | Total |

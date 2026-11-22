@@ -2,8 +2,9 @@
 
 Product: Dripping Skull Game Controller Holder
 Live price, verified on https://zukkay.com/p/dripping-skull-game-controller-holder on Sun Nov 22, 2026 at 9:16 AM ET: **$32.99 + $4.99 ship = $37.98 shipped**, with flat $4.99 US shipping. The site's free-at-$35 rule applies to nurse accessories only, so no free-shipping claim is made here.
-Length 15.2 s · 1080x1920 · 30 fps · -14.1 LUFS · audio snd-0012 from 4 s (vault; license "unverified")
+Length 15.2 s · 1080x1920 · 30 fps · -14.0 LUFS · audio snd-0012 from 4 s (vault; license "unverified")
 On screen from frame 1: hook "YOUR CONTROLLER NEEDS A PARKING SPOT." (0-3.0 s), and from frame 1 to 12.5 s "$32.99 + $4.99 SHIPPING / LINK IN BIO". Product in use in frame 1: a hand is lowering the controller onto the holder (AI scene, tagged "AI-generated model"). The end card reads "SHARE THIS WITH A GAMER". There is no comment-keyword CTA anywhere.
+v2 on-screen script (Hook, Mechanism, Payoff; word-burst subtitles): SET IT DOWN. / LIGHTS ON. / NO MORE COUCH CUSHIONS. / PRINTED TO ORDER. / SPOT TAKEN. (see ../SCRIPTS_JUDGE.md)
 
 ## Hook variants (scored for curiosity/specificity/emotion, 0-3 each)
 | # | Hook | Pattern | C | S | E | Total |
