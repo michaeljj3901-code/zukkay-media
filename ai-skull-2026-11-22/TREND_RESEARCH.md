@@ -25,7 +25,7 @@ Public web data only, pulled Sun Nov 22, 2026 around 9:30 AM ET. Every number be
 ## Risks / red flags
 - Single-influencer risk: the top setup posts are concentrated in a few creators (@andreashomefinds, @oxydoxytv). Don't copy their sounds or claims.
 - Platform-fragile: hashtag caps (IG 5, TT reported 5) make tag stuffing pointless.
-- Vault audio is "unverified" license, which carries a takedown risk on TikTok/IG.
+- Vault audio snd-0011 and snd-0012: Michael holds the license (per Chief, Nov 22). Platform audio-match claims are still possible and should be disputed with the license if they happen.
 
 ## viral-video-analyst: breakdown of 1M+ view videos in the niche (TikTok)
 Source for all rows: Trendstalkr "Gaming Setup Viral Posts", 97 live TikTok videos, updated Nov 17, 2026: https://trendstalkr.com/viral-posts/gaming-setup
